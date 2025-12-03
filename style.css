@@ -17,9 +17,9 @@ body {
 
 @media (max-width:900px) {
   .h-right{
-    display: none;
-    visibility: hidden;
-    width: 0vw;
+    display: none !important;
+    visibility: hidden !important;
+    width: 0vw !important;
   }
   
 }
