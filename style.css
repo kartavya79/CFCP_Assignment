@@ -169,7 +169,9 @@ h2{
 }
 
 /* ---------- SKILLS TABLE ---------- */
-table {
+
+
+/* table {
   width: 100%;
   border-collapse: collapse;
   margin-top: 10px;
@@ -192,7 +194,7 @@ th {
 
 tr:hover {
   background: #f1fcff;
-}
+} */
 
 /* ---------- CONTACT ---------- */
 #contact {
