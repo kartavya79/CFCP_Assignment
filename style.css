@@ -170,32 +170,29 @@ h2{
 
 /* ---------- SKILLS TABLE ---------- */
 
-
-/* table {
-  width: 100%;
-  border-collapse: collapse;
-  margin-top: 10px;
-  border-radius: 12px;
-  overflow: hidden;
-  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.06);
+#skill table{
+  margin-top: 50px;
+  width: 100vw;
+  border-radius: 8px ;
 }
 
-th,
-td {
-  padding: 12px;
-  text-align: center;
+#skill #skill_tb{
+  border: 1px solid black !important; 
+    width: 90vw;
+    margin: auto;
+    margin-top: 60px;
+    padding: 10px;
+    text-align: center;
+    font-family: monospace;
+    background: linear-gradient(90deg, #00b4d8, #ff7b00);
+    color: white;
 }
-
-th {
-  background: #222;
-  color: #fff;
-  font-weight: 700;
+#skill th, td {
+    border: 1px solid black !important;
+    padding: 12px 15px;
+    text-align: center;
+    
 }
-
-tr:hover {
-  background: #f1fcff;
-} */
-
 /* ---------- CONTACT ---------- */
 #contact {
   display: flex;
