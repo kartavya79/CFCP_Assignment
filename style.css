@@ -15,6 +15,15 @@ body {
   overflow-x: hidden;
 }
 
+@media (max-width:900px) {
+  .h-right{
+    display: none;
+    visibility: hidden;
+    width: 0vw;
+  }
+  
+}
+
 /* ---------- HEADER ---------- */
 header {
   background: #222;
